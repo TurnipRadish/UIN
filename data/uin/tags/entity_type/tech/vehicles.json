@@ -1,0 +1,7 @@
+{
+	"values": [
+		"#uin:general/minecarts",
+    "#uin:general/boats",
+		{ "required":false, "id": "minecraft:boat"}
+	]
+}
