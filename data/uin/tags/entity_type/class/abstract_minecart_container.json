@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_chest"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_hopper"
+    }
+  ]
+}

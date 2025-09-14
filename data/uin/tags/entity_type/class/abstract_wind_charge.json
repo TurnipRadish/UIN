@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/breeze_wind_charge"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/wind_charge"
+    }
+  ]
+}

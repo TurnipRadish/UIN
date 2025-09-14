@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/ender_dragon"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/ghast"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/phantom"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/ambient_creature"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/pathfinder_mob"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/slime"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/iron_golem"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/shulker"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/snow_golem"
+    }
+  ]
+}

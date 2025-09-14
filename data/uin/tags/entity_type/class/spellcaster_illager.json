@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/evoker"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/illusioner"
+    }
+  ]
+}

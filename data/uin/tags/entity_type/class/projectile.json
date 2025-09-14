@@ -1,0 +1,32 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/firework_rocket_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/fishing_hook"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/llama_spit"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/shulker_bullet"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_arrow"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_hurting_projectile"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/throwable_projectile"
+    }
+  ]
+}

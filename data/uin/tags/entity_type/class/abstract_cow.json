@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/cow"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/mushroom_cow"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/mannequin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/player"
+    }
+  ]
+}

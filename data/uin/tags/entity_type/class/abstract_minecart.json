@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_command_block"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_furnace"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_spawner"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/minecart_tnt"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_minecart_container"
+    }
+  ]
+}

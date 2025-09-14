@@ -1,0 +1,76 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/area_effect_cloud"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/end_crystal"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/end_dragon_part"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/evoker_fangs"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/experience_orb"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/eye_of_ender"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/falling_block_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/interaction"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/item_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/lightning_bolt"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/marker"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/ominous_item_spawner"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/primed_tnt"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/block_attached_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/display"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/living_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/projectile"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/vehicle_entity"
+    }
+  ]
+}

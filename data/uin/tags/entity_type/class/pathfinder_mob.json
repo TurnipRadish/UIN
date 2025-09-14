@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/allay"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_golem"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/ageable_mob"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/monster"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/water_animal"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/abstract_minecart"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/boat"
+    }
+  ]
+}

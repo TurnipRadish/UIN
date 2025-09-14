@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/bogged"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/skeleton"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/stray"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/wither_skeleton"
+    }
+  ]
+}

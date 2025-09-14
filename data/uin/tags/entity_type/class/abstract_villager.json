@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/villager"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/wandering_trader"
+    }
+  ]
+}

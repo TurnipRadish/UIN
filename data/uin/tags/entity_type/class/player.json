@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/server_player"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_client_player"
+    }
+  ]
+}

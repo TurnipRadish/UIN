@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/ravager"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/witch"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_illager"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/armor_stand"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/avatar"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/mob"
+    }
+  ]
+}

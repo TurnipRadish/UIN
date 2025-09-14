@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/abstract_villager"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/ageable_water_creature"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/animal"
+    }
+  ]
+}

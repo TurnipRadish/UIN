@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/cat"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/wolf"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/shoulder_riding_entity"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/local_player"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/remote_player"
+    }
+  ]
+}

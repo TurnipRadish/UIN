@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/item_frame"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/painting"
+    }
+  ]
+}

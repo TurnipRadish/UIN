@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/cod"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/salmon"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/tropical_fish"
+    }
+  ]
+}

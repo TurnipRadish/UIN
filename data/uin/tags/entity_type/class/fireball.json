@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/large_fireball"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/small_fireball"
+    }
+  ]
+}

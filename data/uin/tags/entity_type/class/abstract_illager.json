@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/pillager"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/vindicator"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/spellcaster_illager"
+    }
+  ]
+}

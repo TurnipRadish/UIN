@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/snowball"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/thrown_egg"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/thrown_enderpearl"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/thrown_experience_bottle"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/thrown_potion"
+    }
+  ]
+}

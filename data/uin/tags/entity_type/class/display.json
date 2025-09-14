@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/block_display"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/item_display"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/text_display"
+    }
+  ]
+}

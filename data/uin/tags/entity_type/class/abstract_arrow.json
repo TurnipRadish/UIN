@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/arrow"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/spectral_arrow"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/thrown_trident"
+    }
+  ]
+}

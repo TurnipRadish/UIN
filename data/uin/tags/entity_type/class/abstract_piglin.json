@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/piglin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/piglin_brute"
+    }
+  ]
+}

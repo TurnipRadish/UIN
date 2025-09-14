@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/pufferfish"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/tadpole"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_schooling_fish"
+    }
+  ]
+}

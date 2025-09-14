@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/camel"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/horse"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/skeleton_horse"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/zombie_horse"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_chested_horse"
+    }
+  ]
+}

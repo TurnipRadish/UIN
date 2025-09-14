@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/leash_fence_knot_entity"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/hanging_entity"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/drowned"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/husk"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/zombie_villager"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/zombified_piglin"
+    }
+  ]
+}

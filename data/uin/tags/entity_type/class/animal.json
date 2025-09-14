@@ -1,0 +1,88 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/armadillo"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/axolotl"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/bee"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/chicken"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/fox"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/frog"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/goat"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/happy_ghast"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/hoglin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/ocelot"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/panda"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/pig"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/polar_bear"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/rabbit"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/sheep"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/sniffer"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/strider"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/turtle"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_cow"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_horse"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/tamable_animal"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/donkey"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/mule"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/llama"
+    }
+  ]
+}

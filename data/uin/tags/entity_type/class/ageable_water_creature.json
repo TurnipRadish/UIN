@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/dolphin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/squid"
+    }
+  ]
+}

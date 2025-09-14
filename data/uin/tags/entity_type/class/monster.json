@@ -1,0 +1,76 @@
+{
+  "values": [
+    {
+      "required": false,
+      "id": "#uin:class/id/blaze"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/breeze"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/creaking"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/creeper"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/ender_man"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/endermite"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/giant"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/silverfish"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/vex"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/warden"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/wither_boss"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/id/zoglin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_piglin"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/abstract_skeleton"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/guardian"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/patrolling_monster"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/spider"
+    },
+    {
+      "required": false,
+      "id": "#uin:class/zombie"
+    }
+  ]
+}
